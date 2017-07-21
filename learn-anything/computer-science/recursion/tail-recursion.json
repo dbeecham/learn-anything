@@ -24,6 +24,12 @@
           "nodes": [],
           "category": "video",
           "color": "rgba(175, 54, 242, 1.0)"
+        },
+        {
+          "text": "2. read 'Little Schemer' - a great exercise in tail recursion",
+          "url": "http://www.goodreads.com/book/show/548914.The_Little_Schemer",
+          "nodes": [],
+          "category": "non-free book",
         }
       ]
     }
